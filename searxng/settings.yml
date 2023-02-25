@@ -10,3 +10,10 @@ ui:
   static_use_hash: true
 redis:
   url: redis://redis:6379/0
+general:
+  debug: false
+  instance_name: "Mid Search"
+  enable_metrics: true
+  donation_url: false
+search:
+  autocomplete: "duckduckgo"
