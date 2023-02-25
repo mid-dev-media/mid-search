@@ -10,17 +10,3 @@ ui:
   static_use_hash: true
 redis:
   url: redis://redis:6379/0
-brand:
-  issue_url: false
-  docs_url: false
-  public_instances: false
-  wiki_url: false
-general:
-  debug: false
-  instance_name:  "Mid Search"
-  privacypolicy_url: false
-  donation_url: false
-  contact_url: false
-  enable_metrics: true
-search:
-  autocomplete: "duckduckgo"
